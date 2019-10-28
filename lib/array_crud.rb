@@ -30,7 +30,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   famous_cats =  ["Cheshire Cat", "Puss in Boots", "Garfield"]
-  famous_catsp[1]
+  famous_catsp[index_number]
 end
 
 def retrieve_first_element_from_array(array)
